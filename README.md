@@ -6,6 +6,7 @@ At the start of simulation, a text file will be created in the OUTPUT folder of 
 
 NOTE:
 Non-dispersive properties are modeling using 2-pole Debye equation with static conductivity term.
+Grid generation module will be added later. I have a different program that geneartes grid data. Grid input file for square, circle to be added.
 User defined inputs must be provided in the text files contained in INPUT folder.
 At this stage of development, conduction boundary condition is implemented. Work is under progress to include PML boundary conditions.
 Subroutines to write output data to files is incomplete and I will add write output functionalities as time allows.
