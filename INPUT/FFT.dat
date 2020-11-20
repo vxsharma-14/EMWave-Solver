@@ -1,0 +1,12 @@
+FREQRANGE 0.0       1.E9
+FREPOINTS 100
+END
+|---------|---------|---------|---------|---------|
+###################################################
+FREQRANGE FREQMIN      FREQMAX
+FREPOINTS FM
+END   
+###################################################
+FREQMIN:  MINIMUM FREQUENCY OF SIMULATION [Hz] [REAL]
+FREQMAX:  MAXIMUM FREQUENCY OF SIMULATION [Hz] [REAL]
+FM:  	  NO. OF POINTS ON FREQUENCY GRID [INTEGER]

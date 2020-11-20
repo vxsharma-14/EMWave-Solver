@@ -1,0 +1,13 @@
+XBOUNDARY 0.3       0.4
+YBOUNDARY 0.3       0.4
+END
+|---------|---------|---------|---------|---------|
+###################################################
+XBOUNDARY XTFSF1    XTFSF2
+YBOUNDARY YTFSF1    YTFSF2
+END   
+###################################################
+XTFSF1:  NEAR X-COORDINATE OF DEVICE WITH REF. TO INCOMING WAVE [m] [REAL]
+YTFSF1:  NEAR Y-COORDINATE OF DEVICE WITH REF. TO INCOMING WAVE [m] [REAL]
+XTFSF2:  FAR X-COORDINATE OF DEVICE WITH REF. TO INCOMING WAVE [m] [REAL]
+YTFSF2:  FAR Y-COORDINATE OF DEVICE WITH REF. TO INCOMING WAVE [m] [REAL]
